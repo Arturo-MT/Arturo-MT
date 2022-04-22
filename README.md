@@ -4,9 +4,9 @@
 
 I'm B. Arturo Monroy Torrez, a 24-year old technical enthusiast who does web development. I like to work on projects where I always can learn someting new.<br>
 ## 📫 How to reach me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brian-monroy-torrez-99544620a/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Arturo-MT) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/brianarturom)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brian-mt/) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/brianarturom)
 
-- 🌱 I’m currently learning TS, Docker and Three.js
+- 🌱 I’m currently learning TS and GraphQL
 - 😄 Pronouns: He/His/Him
 
 ![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arturo-MT&show_icons=true&theme=cobalt)<br>
