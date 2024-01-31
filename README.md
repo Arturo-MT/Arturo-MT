@@ -11,7 +11,6 @@ I code since highschool (10 years aprox.) in different languages like C++, Java,
 * 🤝  I'm open to collaborating on Interesing projects that are challenging.
 * ⚡  I love to code, it's just my passion
 * 📚  I'm currently learning about Cloud Computing
-* 🎮  I love to play videogames, I'm a fan of the most recent GOTY Baldur´s gate 3
 
 ## Skills
 
