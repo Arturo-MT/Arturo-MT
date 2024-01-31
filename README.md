@@ -1,15 +1,13 @@
 Hi 👋 My name is Brian A. Monroy T.
 ===================================
 
-React.js Developer | Web Developer | Frontend Developer | Junior
-----------------------------------------------------------------
+React.js Developer | Web Developer | Frontend Developer | Junior Fullstack
+--------------------------------------------------------------------------
 
 I code since highschool (10 years aprox.) in different languages like C++, Java, JavaScript and environments like automation and now Web Development. I specialize in JavaScript and I'm getting an expert on it. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * 🌍  I'm based in México
-* 🖥️  See my portfolio at [My Portfolio](http://arturo-mt.github.io/Arturo/)
 * ✉️  You can contact me at [ingatorrez@gmail.com](mailto:ingatorrez@gmail.com)
-* 🧠  I'm learning TypeScript and testing.
 * 🤝  I'm open to collaborating on Interesing projects that are challenging.
 * ⚡  I love to code, it's just my passion
 
