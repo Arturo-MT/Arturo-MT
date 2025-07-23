@@ -10,6 +10,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Arturo-MT/Arturo-MT/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NmMnIxNjVkdmk0a3hsb2ExNWRtam9jb2tjaWFheGNycGtsNWZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
@@ -56,6 +62,13 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arturo-MT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arturo-MT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
