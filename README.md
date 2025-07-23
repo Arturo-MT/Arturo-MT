@@ -10,9 +10,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arturo-MT/Arturo-MT/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/Arturo-MT/Arturo-MT/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -21,6 +19,8 @@
 ###
 
 <div align="left">
+  <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -53,6 +53,8 @@
 ###
 
 <div align="left">
+  <img width="12" />
+  <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="ingatorrez@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -62,9 +64,13 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
+</div>  
 
 ###
+
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arturo-MT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
